@@ -17,9 +17,4 @@ sudo apt install dotdotpwn
 #CheckURL
 git clone https://github.com/UndeadSec/checkURL.git
 
-#Python Dirbuster
-git clone https://github.com/coderj001/python-dirbuster.git
-cd python-dirbuster/
-pip install -r requirements.txt
-cd ..
-echo "------ Errors regarding 'urllib' can be disregarded. ------"
+
